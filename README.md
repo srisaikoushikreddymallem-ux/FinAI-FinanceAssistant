@@ -93,12 +93,6 @@ Start the backend:
 python -m uvicorn main:app --reload
 ```
 
-Backend API: http://127.0.0.1:8000
-
-API documentation: http://127.0.0.1:8000/docs
-
-Health check: http://127.0.0.1:8000/api/health
-
 ### 3. Frontend Setup
 
 Open a second terminal:
@@ -109,7 +103,6 @@ npm install
 npm run dev
 ```
 
-Frontend: http://localhost:5173
 
 ## Machine Learning
 
