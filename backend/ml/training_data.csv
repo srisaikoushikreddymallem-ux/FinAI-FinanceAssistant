@@ -1,0 +1,86 @@
+description,category
+swiggy food order,Food
+zomato restaurant,Food
+ordered pizza,Food
+grocery shopping,Food
+restaurant bill,Food
+lunch at hotel,Food
+dinner at restaurant,Food
+coffee and snacks,Food
+bigbasket groceries,Food
+zepto grocery order,Food
+uber ride,Transport
+ola cab,Transport
+rapido bike ride,Transport
+metro train ticket,Transport
+bus ticket,Transport
+petrol filling,Transport
+diesel filling,Transport
+car parking fee,Transport
+train reservation,Transport
+flight ticket,Transport
+netflix subscription,Entertainment
+amazon prime subscription,Entertainment
+spotify premium,Entertainment
+movie ticket,Entertainment
+cinema booking,Entertainment
+youtube premium,Entertainment
+gaming subscription,Entertainment
+electricity bill,Utilities
+water bill payment,Utilities
+internet bill,Utilities
+mobile recharge,Utilities
+gas cylinder booking,Utilities
+broadband payment,Utilities
+wifi bill,Utilities
+house maintenance,Utilities
+monthly house rent,Rent
+apartment rent payment,Rent
+room rent,Rent
+pg accommodation rent,Rent
+hostel fee,Rent
+monthly salary credited,Salary
+salary payment,Salary
+company salary,Salary
+salary received,Salary
+monthly income salary,Salary
+freelance project payment,Freelance
+website development payment,Freelance
+consulting fees received,Freelance
+freelance income,Freelance
+project payment received,Freelance
+doctor consultation,Healthcare
+medical store purchase,Healthcare
+pharmacy bill,Healthcare
+hospital payment,Healthcare
+medicine purchase,Healthcare
+gym membership,Fitness
+yoga class fee,Fitness
+fitness training,Fitness
+sports equipment,Fitness
+gym subscription,Fitness
+amazon shopping,Shopping
+clothes purchase,Shopping
+shoes purchase,Shopping
+online shopping,Shopping
+electronics purchase,Shopping
+college tuition fee,Education
+course enrollment,Education
+online course payment,Education
+books purchase,Education
+exam registration fee,Education
+electricity payment,Utilities
+electricity bill payment,Utilities
+monthly electricity bill,Utilities
+EB bill payment,Utilities
+TNEB bill payment,Utilities
+power bill payment,Utilities
+current bill payment,Utilities
+water charges payment,Utilities
+monthly water charges,Utilities
+internet recharge payment,Utilities
+broadband bill payment,Utilities
+mobile postpaid bill,Utilities
+gas bill payment,Utilities
+utility bill payment,Utilities
+electricity charges,Utilities
